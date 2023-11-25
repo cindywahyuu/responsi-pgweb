@@ -1,12 +1,14 @@
 # responsi-pgweb
 BASABASI (Bank Sampah Berbasis Sistem Informasi)
-Deskripsi Produk: Bank Sampah Berbasis Sistem informasi yang bertujuan untuk efisien mengelola sampah melalui pendekatan pengumpulan, pengolahan, dan pemanfaatan sampah secara berkelanjutan. Bank sampah adalah suatu unit atau lembaga yang berperan sebagai perantara antara masyarakat dan industri daur ulang, dengan fokus pada pengumpulan dan pengelolaan sampah.
+Bank Sampah Berbasis Sistem informasi yang bertujuan untuk efisien mengelola sampah melalui pendekatan pengumpulan, pengolahan, dan pemanfaatan sampah secara berkelanjutan. Bank sampah adalah suatu unit atau lembaga yang berperan sebagai perantara antara masyarakat dan industri daur ulang, dengan fokus pada pengumpulan dan pengelolaan sampah.
 
 Komponen Pembangun Produk :
 1. Data shapefile titik persebaran bank sampah Kota Yogyakarta
 2. Data shapefile batas administrasi Kota Yogyakarta
 3. Data statistik sumber sampah, jenis sampah, timbunan sampah
-4. 
+4. Database PHP My Admin
+5. GeoServer
+   
 Sumber data :
 1. https://geoportal.jogjakota.go.id/
 2. https://sipsn.menlhk.go.id/
